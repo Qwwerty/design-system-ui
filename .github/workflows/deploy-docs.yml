@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: qmzpZ7p2A7VnBp2MgXn8oT8Y
+          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           TURBO_TEAM: ignews-qwwerty
 
       - name: Deploy storybook
