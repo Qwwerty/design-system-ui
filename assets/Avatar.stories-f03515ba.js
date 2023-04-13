@@ -1,0 +1,2 @@
+import{A as t}from"./index-f763c8e4.js";import"./index-5e619a1e.js";import"./iframe-a7781668.js";import"./index-41117c0e.js";import"./jsx-runtime-bb6974ee.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/qwwerty.png",alt:"qwwerty"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-f03515ba.js.map

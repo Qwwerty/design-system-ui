@@ -1,0 +1,2 @@
+import{d as t}from"./index-f763c8e4.js";import"./index-5e619a1e.js";import"./iframe-a7781668.js";import"./index-41117c0e.js";import"./jsx-runtime-bb6974ee.js";const i={title:"Form/Toast",component:t,args:{title:"Scheduling done",description:"Wednesday, October 23rd at 4pm",duration:5e3},argTypes:{open:{defaultValue:!0,control:{type:"boolean"}}}},n={},p=["Primary"];export{n as Primary,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Toast.stories-2dc93df3.js.map
